@@ -1,0 +1,17 @@
+x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  |
+x  n0    n1                      n2    n3 x  |
+x     x     x  x  x  x  x  x  x     x     x  |
+x     x  n4       n5 x  n6       n7 x     x  |
+x     x  x  x  x     x     x  x  x  x     x  |     
+x     x  n8       n9 n10n11      n12x     x  |
+x     x     x  x  x     x  x  x     x     x  |
+x  n13   n14x     e1 n31e3    x  n15   n16x  |
+x  x  x     x        e2       x     x  x  x  |
+x  n17   n18x                 x  n19   n20x  | 
+x     x     x  x  x  x  x  x  x     x     x  |
+x     x  n21      p              n22x     x  |
+x     x     x  x  x  x  x  x  x     x     x  |
+x     x  n23      n24x  n25      n26x     x  |
+x     x  x  x  x     x     x  x  x  x     x  |
+x  n27            n28x  n29            n30x  |
+x  x  x  x  x  x  x  x  x  x  x  x  x  x  x  |
